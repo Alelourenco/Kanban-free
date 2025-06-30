@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Power BI Developer","email":"developer@powerbi.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/kanbanReact3783AB73E36E439FA1F672E13E7CFE7E.pbiviz.json"
+			}
+		],
+		"visual": {"name":"kanbanReact","displayName":"Kanban Board","guid":"kanbanReact3783AB73E36E439FA1F672E13E7CFE7E","visualClassName":"Visual","version":"1.0.0.0","description":"Um visual Kanban moderno com funcionalidade de drag and drop para Power BI. Permite organizar tarefas em colunas personalizáveis com responsáveis e interações intuitivas.","supportUrl":"https://github.com/powerbi-visuals/kanban-react","gitHubUrl":"https://github.com/powerbi-visuals/kanban-react"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
