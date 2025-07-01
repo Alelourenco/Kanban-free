@@ -35,7 +35,6 @@ An interactive Kanban board visual for Power BI | Visual interativo de quadro Ka
 
 ### 💰 Donate / Doar
 - **PIX**: `alexandre.2.lourenco@outlook.com`
-- **PayPal**: [Email for link / Email para link](mailto:alexandre.2.lourenco@outlook.com)
 
 ### 📞 Contact / Contato
 - 📧 **Email**: alexandre.2.lourenco@outlook.com

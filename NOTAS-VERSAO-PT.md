@@ -114,7 +114,6 @@ O desenvolvimento do Kanban Visual consome tempo e recursos significativos. Seu 
 ### 💰 Formas de Contribuir
 #### Financeiramente
 - **PIX**: alexandre.2.lourenco@outlook.com
-- **PayPal**: [Solicite link via email](mailto:alexandre.2.lourenco@outlook.com)
 - **GitHub Sponsors**: [Em configuração]
 
 #### Outras Formas

@@ -19,38 +19,8 @@ Chave PIX: alexandre.2.lourenco@outlook.com
 Nome: Alexandre Lourenço
 ```
 
-### 💳 PayPal (Internacional)
-Para link direto do PayPal, envie email para:
-📧 **alexandre.2.lourenco@outlook.com**
-
 ### 🌟 GitHub Sponsors
 [Em configuração - Em breve disponível]
-
-## 🏆 Níveis de Apoio
-
-### ☕ **Cafezinho** - R$ 10-25
-- 💝 Reconhecimento no README
-- 📧 Updates por email sobre novas versões
-- 🙏 Nosso eterno agradecimento
-
-### 🍕 **Pizza** - R$ 50-100
-- ✅ Tudo do nível anterior
-- 🐛 Prioridade na correção de bugs reportados
-- 💡 Sugestões de features priorizadas
-- 📞 Contato direto via LinkedIn
-
-### 🚀 **Turbinado** - R$ 200-500
-- ✅ Tudo dos níveis anteriores
-- 🎯 Acesso antecipado a novas versões
-- 📊 Consultoria básica via email (1h/mês)
-- 🏷️ Menção especial como "Apoiador Gold"
-
-### 💎 **Premium Sponsor** - R$ 1000+
-- ✅ Tudo dos níveis anteriores
-- 🎨 Customizações específicas para sua empresa
-- 📞 Videochamada mensal para feedback (30min)
-- 🏢 Logo da empresa na documentação (se desejar)
-- 🤝 Parceria para desenvolvimento de recursos específicos
 
 ## 🎁 Outras Formas de Apoiar
 
@@ -83,14 +53,7 @@ Para link direto do PayPal, envie email para:
 
 ## 🏆 Hall da Fama - Apoiadores
 
-### 💎 Premium Sponsors
-*Em breve - Seja o primeiro!*
-
-### 🚀 Apoiadores Gold
-*Em breve - Junte-se a nós!*
-
-### ☕ Apoiadores Cafezinho
-*Sua contribuição aparecerá aqui com muito carinho!*
+*Sua contribuição aparecerá aqui com muito carinho! Seja o primeiro a apoiar o projeto.*
 
 ## 📞 Contato para Apoiadores
 
@@ -101,7 +64,7 @@ Para link direto do PayPal, envie email para:
 
 ### 💼 LinkedIn
 **[Alexandre Lourenço]** 
-- Conexão direta para apoiadores Gold+
+- Conexão direta para apoiadores
 - Updates exclusivos sobre o projeto
 
 ### 🏢 Para Empresas

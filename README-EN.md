@@ -107,8 +107,7 @@ This visual is **100% free**, but its development consumes time and resources. I
 ### 💰 Ways to Contribute
 - ⭐ **Star** this repository
 - 💵 **PIX Donation**: `alexandre.2.lourenco@outlook.com`
-- 💳 **PayPal**: [Send email to request link](mailto:alexandre.2.lourenco@outlook.com)
-- 🐛 **Report bugs** or suggest improvements
+-  **Report bugs** or suggest improvements
 - 📢 **Share** with the Power BI community
 
 ### 📞 Contact
