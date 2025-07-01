@@ -83,8 +83,7 @@ Certifique-se de que seus dados tenham pelo menos:
 Este visual é **100% gratuito**, mas seu desenvolvimento contínuo depende da comunidade. Se este visual está ajudando seu trabalho, considere apoiar:
 
 ### 💰 **Doações**
-- **PIX**: [alexandre.2.lourenco@outlook.com]
-- **PayPal**: [Contribuir via PayPal](mailto:alexandre.2.lourenco@outlook.com)
+- **PIX**: alexandre.2.lourenco@outlook.com
 
 ### 📞 **Contato para Suporte/Customizações**
 - **📧 Email**: [alexandre.2.lourenco@outlook.com](mailto:alexandre.2.lourenco@outlook.com)

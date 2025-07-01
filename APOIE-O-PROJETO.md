@@ -45,12 +45,6 @@ Nome: Alexandre Lourenço
 - **15%**: Documentação e suporte
 - **5%**: Divulgação e comunidade
 
-### 📈 Metas de Arrecadação
-- **R$ 500/mês**: Manutenção básica e correções
-- **R$ 1.500/mês**: Desenvolvimento de 1 feature nova/mês
-- **R$ 3.000/mês**: Versão Premium em desenvolvimento
-- **R$ 5.000/mês**: Equipe expandida e recursos avançados
-
 ## 🏆 Hall da Fama - Apoiadores
 
 *Sua contribuição aparecerá aqui com muito carinho! Seja o primeiro a apoiar o projeto.*
@@ -85,16 +79,6 @@ Interessado em patrocínio corporativo ou desenvolvimento customizado?
 - **📊 Criar analytics** integrados
 - **🔗 Integrar com Azure DevOps** e Jira
 - **📱 Tornar responsivo** para mobile
-
-## 💬 Depoimentos de Usuários
-
-> *"Finalmente um Kanban que funciona bem no Power BI! Economizou horas do meu trabalho."*
-> 
-> **— Maria Santos, Analista de Dados**
-
-> *"A versão gratuita já resolve 90% dos nossos casos. Mal posso esperar pela Premium!"*
-> 
-> **— João Silva, Gerente de Projetos**
 
 ## 🎉 Agradecimento
 
