@@ -1,0 +1,31 @@
+# Bloquear TUDO exceto README.md e .pbiviz
+*
+
+# Permitir apenas arquivos específicos
+!README.md
+!LICENSE
+!.gitignore
+!dist/
+!dist/*.pbiviz
+
+# Continuar bloqueando tudo desnecessário
+node_modules/
+.tmp/
+.vscode/
+src/
+style/
+assets/
+*.json
+*.ts
+*.tsx
+*.js
+*.mjs
+*.less
+*.html
+*.bat
+*.md
+!README.md
+
+# Permitir apenas arquivos .pbiviz na pasta dist
+dist/*
+!dist/*.pbiviz
